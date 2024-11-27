@@ -6,13 +6,13 @@ export default function WhoAmI() {
     <div className="space-y-8">
       <section className="flex items-center gap-8">
         <Avatar className="w-32 h-32">
-          <AvatarImage src="https://images.unsplash.com/photo-1576558656222-ba66febe3dec" />
-          <AvatarFallback>JD</AvatarFallback>
+          <AvatarImage src="" />
+          <AvatarFallback>DG</AvatarFallback>
         </Avatar>
         <div>
-          <h1 className="text-4xl font-bold mb-2">John Developer</h1>
+          <h1 className="text-4xl font-bold mb-2">Daniil Hinzburh</h1>
           <p className="text-xl text-muted-foreground">
-            Full Stack Developer & Game Enthusiast
+            Front-end Developer & Game Enthusiast
           </p>
         </div>
       </section>
